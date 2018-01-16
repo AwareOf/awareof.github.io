@@ -4,7 +4,7 @@ author: baolianbao
 catalog: true
 categories: default
 header-img: "contact-bg.jpg"
-tags: [认知科学]
+tags: [认知科学,智识技术]
 date: 2016-11-13 10:13:17
 ---
 
